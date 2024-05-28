@@ -1,13 +1,12 @@
-<h1 align="center"> 📝 - Introdução à Linguagem Javascript
+<h1 align="center"> 📝 - Introdução à Linguagem Javascript - Módulo 1
 
 <h2 id=descricao> 📜 Descrição</h2>
 
-- Introdução ao Javascript - Módulo 1 do curso da OneBitCode;
 - Neste repositório, encontram-se atividades e conceitos trabalhados durante o módulo de JS-1 do curso anteriormente citado.
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
 
-As tecnologias que foram utilizadas são as seguintes (em ambas matérias): 
+As tecnologias que foram utilizadas são as seguintes: 
 
 - Javascript - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">Javascript</a>
 - VSCODE - <a href= "https://code.visualstudio.com/">VSCODE</a>
